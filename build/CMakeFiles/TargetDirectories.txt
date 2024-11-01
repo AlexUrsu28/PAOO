@@ -1,0 +1,3 @@
+/home/alex/PAOO/build/CMakeFiles/PAOO.dir
+/home/alex/PAOO/build/CMakeFiles/edit_cache.dir
+/home/alex/PAOO/build/CMakeFiles/rebuild_cache.dir
