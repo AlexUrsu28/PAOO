@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/PAOO2.dir/src/paoo_tema_2.cpp.o -o PAOO2 
